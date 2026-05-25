@@ -1,0 +1,14 @@
+{
+  "name": "Rishiraj Singh Thakur",
+  "short_name": "RST",
+  "description": "Portfolio of Rishiraj Singh Thakur — Self Employed, ITI & PGDCA",
+  "start_url": "./rishiraj_portfolio.html",
+  "display": "standalone",
+  "background_color": "#7C3AED",
+  "theme_color": "#7C3AED",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "rishiraj_icon.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "rishiraj_icon.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
